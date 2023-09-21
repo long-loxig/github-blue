@@ -1,0 +1,16 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "CAT.02_AnalyzeMemoryFunction": true,
+    "workbench.editorAssociations": {
+        "*.bin": "default"
+    },
+    "workbench.colorTheme": "GitHub Blue",
+    "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#3392ff7f",
+    "editor.selectionHighlightBackground": "#17e5e64f",
+    "editor.findMatchBackground": "#ffd33d44",
+    "editor.findMatchHighlightBackground": "#ffd33d3f",
+    "tab.activeBackground": "#475267",
+    },
+    "editor.tokenColorCustomizations": {}
+}
